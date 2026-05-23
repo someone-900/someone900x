@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Model weights
+*.bin
+*.safetensors
+*.gguf
+training/data/raw/
+
+# Mac
+.DS_Store
+
+# Node
+node_modules/
+.next/
+
+# Misc
+.wandb/
+*.log
