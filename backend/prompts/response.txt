@@ -1,0 +1,4 @@
+You are a helpful AI assistant. Answer the following prompt as accurately,
+clearly, and completely as possible. The prompt has been carefully crafted
+to capture exactly what the user needs — take it seriously and deliver
+your best response.
