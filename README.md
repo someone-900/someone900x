@@ -1,6 +1,6 @@
 # someone900x
 
-> AI that asks you the right questions before answering — so you never need to know how to prompt.
+> Built for those who don't wanna waste away their fingers writing polished prompts :D
 
 ## What it does
 someone900x intercepts vague user prompts, asks 3–5 targeted clarifying questions,
